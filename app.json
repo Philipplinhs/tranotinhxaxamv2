@@ -1,0 +1,36 @@
+{
+  "host": "zj3797.net",
+  "javaHost": "zj3797.net",
+  "playHost": "tha8369.net",
+  "downloadHost": "rg9386.net",
+  "assetBundleBase": "https://ab1.rg9386.net/",
+  "assetBundleHosts": [
+    "ab1.rg9386.net",
+    "ab2.rg9386.net",
+    "ab3.rg9386.net",
+    "ab4.rg9386.net",
+    "ab5.rg9386.net",
+    "ab6.rg9386.net",
+    "ab7.rg9386.net",
+    "ab8.rg9386.net",
+    "ab9.rg9386.net",
+    "ab10.rg9386.net",
+    "ab11.rg9386.net",
+    "ab12.rg9386.net",
+    "ab13.rg9386.net",
+    "ab14.rg9386.net",
+    "ab15.rg9386.net",
+    "ab16.rg9386.net",
+    "ab17.rg9386.net",
+    "ab18.rg9386.net",
+    "ab19.rg9386.net",
+    "ab20.rg9386.net"
+  ],
+  "hotupdate": [
+    "dl4.rg9386.net",
+    "download1.rg9386.net",
+    "download2.rg9386.net",
+    "download.rg9386.net",
+    "download3.rg9386.net"
+  ]
+}
