@@ -34,4 +34,4 @@ Client native/web đọc **`app.json`** trên nhánh `main` (raw GitHub / jsDeli
 
 ## Repo cũ
 
-`tranotinhxaxam` trỏ hot update sang brand khác (`qjwqwjhdasjb2ju78.com`). Client mới dùng repo **`tranotinxacamv2`** — xem `RemoteGitConfig.js` trong ClientXu2X.
+`tranotinhxaxam` trỏ hot update sang brand khác (`qjwqwjhdasjb2ju78.com`). Client mới dùng repo **`tranotinhxaxamv2`** — xem `RemoteGitConfig.js` trong ClientXu2X.
